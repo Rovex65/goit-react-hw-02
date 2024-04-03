@@ -1,0 +1,9 @@
+.options {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.options button {
+  text-transform: capitalize;
+}
